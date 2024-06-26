@@ -12,6 +12,9 @@ GitHub:     [Konstantin-prog](https://github.com/Konstantin-prog/)
 
 Currently, I live in the only city in the world that is situated on two continents – Istanbul. I am engaged in video and photo shooting.
 
+## Education
+VGU-FKN 2009-2014
+
 ## Language level
 Russian - Native
 
