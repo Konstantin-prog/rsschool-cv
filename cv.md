@@ -9,10 +9,9 @@ Instagram:   [@video.konstantin](https://www.instagram.com/video.konstantin/)
 GitHub:     [Konstantin-prog](https://github.com/Konstantin-prog/)
 
 ## About
-## Skills
-## Code Example
-## Job Experience
-## Education
+
+Currently, I live in the only city in the world that is situated on two continents – Istanbul. I am engaged in video and photo shooting.
+
 ## Language level
 Russian - Native
 
